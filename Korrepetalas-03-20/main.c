@@ -67,7 +67,7 @@ int main()
     printf("Irj be egy szot majd ENTER");
     char kacsa[20];
     scanf("%s", kacsa);
-    printf("String%s", kacsa);
+    printf("String: %s", kacsa);
 
 
     return 0;
